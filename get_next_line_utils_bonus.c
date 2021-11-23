@@ -6,11 +6,11 @@
 /*   By: vserrao- <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/11/22 14:27:22 by vserrao-          #+#    #+#             */
-/*   Updated: 2021/11/22 14:35:00 by vserrao-         ###   ########.fr       */
+/*   Updated: 2021/11/23 13:01:45 by vserrao-         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 
 size_t	ft_strlen(const char *str)
 {
