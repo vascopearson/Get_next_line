@@ -28,3 +28,4 @@ and, when compiling your code, add the required flags:
 ```shell
 get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 ```
+and add the bonus files if you wish to use them.
