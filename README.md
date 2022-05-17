@@ -5,7 +5,7 @@
 > This project is about programming a function that returns a line read from a file descriptor.<br/>
 > This is Version 10 of this project<br/>
 
-For detailed information, refer to the [**subject of this project**](https://github.com/vascopearson/Libft/blob/master/libft_subject.pdf).
+For detailed information, refer to the [**subject of this project**](https://github.com/vascopearson/Get_next_line/blob/master/getnextline_subject.pdf).
 
 ## 🛠️ Usage
 
